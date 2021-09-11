@@ -1,0 +1,6 @@
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionLib\bin\Debug\CreditDecisionLib.dll
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionLib\bin\Debug\CreditDecisionLib.pdb
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionLib\obj\Debug\CreditDecisionLib.csproj.AssemblyReference.cache
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionLib\obj\Debug\CreditDecisionLib.csproj.CoreCompileInputs.cache
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionLib\obj\Debug\CreditDecisionLib.dll
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionLib\obj\Debug\CreditDecisionLib.pdb

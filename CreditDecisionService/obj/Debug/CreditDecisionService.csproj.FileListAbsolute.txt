@@ -1,0 +1,10 @@
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\bin\CreditDecisionService.dll.config
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\bin\CreditDecisionService.dll
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\bin\CreditDecisionService.pdb
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\bin\CreditDecisionLib.dll
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\bin\CreditDecisionLib.pdb
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\obj\Debug\CreditDecisionService.csproj.AssemblyReference.cache
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\obj\Debug\CreditDecisionService.csproj.CoreCompileInputs.cache
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\obj\Debug\CreditDecisionService.csproj.CopyComplete
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\obj\Debug\CreditDecisionService.dll
+C:\Users\jmatlak\source\repos\challenge20210911\CreditDecisionService\obj\Debug\CreditDecisionService.pdb
